@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.star {
+  background-color: #3b82f6;
+}
+.bottomImage {
+  height: 100px;
+  width: 100px;
+  border-radius: 14px;
+}
+.Li {
+  margin: 12px;
+}

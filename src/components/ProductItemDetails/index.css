@@ -1,0 +1,15 @@
+/* Write your CSS here */
+
+.imageTop {
+  height: 400px;
+  width: 300px;
+  border-radius: 12px;
+}
+
+.flexBottom {
+  display: flex;
+  list-style-type: none;
+}
+.bgCenter {
+  text-align: center;
+}
